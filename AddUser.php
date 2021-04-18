@@ -1,4 +1,5 @@
 <?php
+echo "HI Priya";
 include_once("class/CMaster.php");
 $lCMaster = new CMaster();
 $Date = date('Y-m-d H:i:s ', time());
